@@ -1,0 +1,7 @@
+{
+  "type": "mashup",
+  "name": "My Mashup",
+  "description": "Example Mashup",
+  "version": "1.0.0",
+  "author": "John Bellizzi"
+}
